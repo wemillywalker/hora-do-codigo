@@ -1,1 +1,3 @@
-# hora-do-codigo
+# Fundamentos de Lógica e Algortimos
+
+## Atividade Hora do Código
